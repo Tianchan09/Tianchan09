@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👨‍💻👨‍💻👨‍💻
+I am an aspiring AWS Cloud Engineer.
+
+🖥☁
 I'm currently learning AWS Cloud, Phyton and Javascript.
+
+
